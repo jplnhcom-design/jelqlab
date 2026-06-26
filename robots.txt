@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jelqlab.vercel.app/sitemap.xml
